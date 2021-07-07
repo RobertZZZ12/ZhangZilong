@@ -33,13 +33,13 @@ body{
     margin-top: 20px;
     float: left;
 }
-img{
+img{/*对图片进行大小固定*/
     margin-top: 20px;
     float: right;
     width: 90px;
     height: auto;
 }
-table{
+table{/*表格的呈现*/
     border-collapse: collapse;
     border-spacing: 0;
 }
